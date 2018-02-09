@@ -35,5 +35,3 @@ Average Write Speed Over 10 Iterations: 1316.03
 Average Read Speed Over 10 Iterations: 1627.87
 
 
-
-
