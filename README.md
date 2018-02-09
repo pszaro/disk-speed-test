@@ -34,11 +34,4 @@ Things to know/change before first run:
 -Script generates a log of each run and dumps the average to the location specified for LOG. (Update the location if you want it logging to a different location.)
 
 
-Example of log:
-
-
-Performed on /Volumes/DATA - 20180209145637 
-Average Write Speed Over 10 Iterations: 1316.03
-Average Read Speed Over 10 Iterations: 1627.87
-
 
