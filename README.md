@@ -37,11 +37,8 @@ Things to know/change before first run:
 Example of log:
 
 
-Performed on /Volumes/DATA - 20180209145637
-
+Performed on /Volumes/DATA - 20180209145637 
 Average Write Speed Over 10 Iterations: 1316.03
-
 Average Read Speed Over 10 Iterations: 1627.87
-
 
 
