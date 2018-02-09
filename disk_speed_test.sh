@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Description: Determine speed of write/read on External Drive
+# Description: Determine speed of write/read on drive command executed on
 #
 
 DT=`date +%Y%m%d%H%M%S`
