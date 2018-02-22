@@ -36,8 +36,8 @@ AVGREAD=`cat /tmp/throughput-read | awk '{print $1}' | awk '{s+=$1} END {print s
 echo "################################################"
 echo "                                                " | tee -a "$LOG"
 echo "Performed on ${PWD} - ${DT}                     " | tee -a "$LOG"
-echo "Average Write Speed Over 10 Iterations: ${AVGWRITE}" | tee -a "$LOG"
-echo "Average Read Speed Over 10 Iterations: ${AVGREAD}" | tee -a "$LOG"
+echo "Average Write Speed Over 10 Iterations: ${AVGWRITE} MB/sec" | tee -a "$LOG"
+echo "Average Read Speed Over 10 Iterations: ${AVGREAD} MB/sec" | tee -a "$LOG"
 echo "                                                " | tee -a "$LOG"
 echo "################################################"
 echo
